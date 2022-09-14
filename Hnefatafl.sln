@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hnefatafl", "Hnefatafl\Hnefatafl.csproj", "{977A00CA-42F0-4675-BD96-61B5EA036CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HnefataflServer", "HnefataflServer\HnefataflServer.csproj", "{8FD30F81-E471-4E2F-9E2A-51A01A1A01FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977A00CA-42F0-4675-BD96-61B5EA036CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977A00CA-42F0-4675-BD96-61B5EA036CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977A00CA-42F0-4675-BD96-61B5EA036CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977A00CA-42F0-4675-BD96-61B5EA036CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD30F81-E471-4E2F-9E2A-51A01A1A01FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD30F81-E471-4E2F-9E2A-51A01A1A01FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD30F81-E471-4E2F-9E2A-51A01A1A01FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD30F81-E471-4E2F-9E2A-51A01A1A01FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DFB8EB6-5B63-484A-9C8D-5110B86927CB}
+	EndGlobalSection
+EndGlobal
